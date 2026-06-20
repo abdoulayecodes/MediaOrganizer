@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 
-folder = Path(r"C:\Users\niizu\Documents\Dev\MediaOrganizer\Dropfileshere")
+folder = Path(r"YOUR_FOLDER")
 
 images = [".png", ".jpg", ".jpeg"]
 videos_audio = [".mp4", ".mp3"]
